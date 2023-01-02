@@ -6,7 +6,7 @@
 - 🔭 Check out my: [Portfolio Website][portfolio]!
 - 🌱 I’m currently learning html, css, js, git & bootstrap.
 - 👯 I’m looking to break into the tech industry.
-- 🥅 2022 Goals: become a JavaScript master!
+- 🥅 Goals: become a JavaScript master!
 - ⚡ Fun fact: I am  huge Formula 1 fan.
 - 😻 Check out my first attempt at implementing an API: [CryptoSquires]
 
