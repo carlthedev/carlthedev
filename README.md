@@ -19,8 +19,6 @@ Currently in the Founders and Coders Skills bootcamp.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlthedev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlthedev&langs_count=5&theme=dark&hide_border=true )]()
-
 [portfolio]: https://carlthedev.github.io/Portfolio-v2/
 [CryptoSquires]: https://cryptosquires.netlify.app/
 [linkedin]: https://linkedin.com/in/codeSTACKr
