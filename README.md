@@ -1,10 +1,12 @@
 
-# Hi there, I'm Carl 👋 
+# Hi there, I'm Carl (he/him) 👋 
 
-## I'm a front-end web developer.
+## I'm an aspiring web developer.
+
+Currently in the Founders and Coders Skills bootcamp.
 
 - 🔭 Check out my: [Portfolio Website][portfolio]!
-- 🌱 I’m currently learning html, css, js, git & bootstrap.
+- 🌱 I’m currently learning html, css, & js.
 - 👯 I’m looking to break into the tech industry.
 - 🥅 Goals: become a JavaScript master!
 - ⚡ Fun fact: I am  huge Formula 1 fan.
