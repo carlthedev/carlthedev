@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
 
 # Hi there, I'm Carl (he/him) 👋 
 
@@ -12,9 +20,9 @@ Currently in the Founders and Coders Skills bootcamp.
 - ⚡ Fun fact: I am  huge Formula 1 fan.
 - 😻 Check out my first attempt at implementing an API: [CryptoSquires]
 
-<p>
+<div>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=carlthedev&theme=dark&hide_border=true" width = 400>
-</p>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlthedev)](https://github.com/anuraghazra/github-readme-stats)
 
