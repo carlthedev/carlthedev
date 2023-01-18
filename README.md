@@ -13,7 +13,6 @@ Currently in the Founders and Coders Skills bootcamp.
 - 😻 Check out my first attempt at implementing an API: [CryptoSquires]
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=carlthedev&show_icons=true&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=carlthedev&theme=dark&hide_border=true" width = 400>
 </p>
 
