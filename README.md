@@ -15,7 +15,7 @@ Currently in the Founders and Coders Skills bootcamp.
 <p>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=carlthedev&theme=dark&hide_border=true" width = 400>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlthedev&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlthedev)](https://github.com/anuraghazra/github-readme-stats)
 
 [portfolio]: https://carlthedev.github.io/Portfolio-v2/
