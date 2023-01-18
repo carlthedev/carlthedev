@@ -20,11 +20,13 @@ Currently in the Founders and Coders Skills bootcamp.
 - ⚡ Fun fact: I am  huge Formula 1 fan.
 - 😻 Check out my first attempt at implementing an API: [CryptoSquires]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlthedev&theme=dark)](https://github.com/malcolmwilson8/github-readme-stats)
+
 <div>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=carlthedev&theme=dark&hide_border=true" width = 400>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlthedev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlthedev&theme=dark)](https://github.com/malcolmwilson8/github-readme-stats)
 
 [portfolio]: https://carlthedev.github.io/Portfolio-v2/
 [CryptoSquires]: https://cryptosquires.netlify.app/
