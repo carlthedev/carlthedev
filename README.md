@@ -1,7 +1,7 @@
 
 # Hi there, I'm Carl (he/him) 👋 
 
-## I'm an aspiring web developer.
+## A front-end web developer.
 
 Currently in the Founders and Coders Skills bootcamp.
 
